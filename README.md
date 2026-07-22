@@ -55,8 +55,8 @@ Some images used on this site were sourced from Pinterest and are not my own wor
 ## 📬 Contact
 
 - **Name:** Angelo
-- **Email:** [your email]
-- **LinkedIn:** [your LinkedIn]
+- **Email:** nhlanhlankomo466@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/angelo-nkomo-b05543228/
 - **GitHub:** [https://angelogeno.github.io/Angelo-Portfolio-Website/](https://github.com/AngeloGeno)
 
 ## 📄 License
